@@ -10,8 +10,6 @@ metadata:
   opencode/autoinvoke: "false"
 ---
 
-# Weekly Review
-
 I have left BOZO comments throughout the codebase. A BOZO is not necessarily the same as a TODO. I occasionally peruse the codebase and flag anything that catches my eye with a BOZO. That might be because I don't understand a piece of code or because I have an idea what to change or because I suspect there is a problem. They are rough thoughts, not tasks or opinions set in stone. They're things I want your input on and which you should investigate. 
 
 There are different possibilities on what I want you to do. If a BOZO turns out as me just lacking knowledge about the domain or codebase then I want you to explain that knowledge to me in a way that doesn't assume I know the codebase by heart (I wouldn't have left the BOZO otherwise)
