@@ -1,11 +1,11 @@
 ---
-name: bozos
+name: pdf-to-latex
 description: Decompile a PDF into LaTex to make it easier to understand for Agents
 disable-model-invocation: true
 user-invocable: true
 metadata:
   author: paperbenni
-  version: "0.1.0"
+  version: "0.1.1"
   opencode/slash: "true"
   opencode/autoinvoke: "false"
 ---
